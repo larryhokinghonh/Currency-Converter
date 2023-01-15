@@ -6,7 +6,7 @@ This simple currency converter application retrieves data from **ExchangeRate-AP
 
 ## II. Getting Started
 
-You can use the currency converter by simply downloading the executable file.
+You can use the currency converter by simply downloading the entire repository in a zip file.
 
 ## III. Documentation
 
@@ -28,4 +28,4 @@ If you are viewing data about previous conversion rates from a small screen disp
 The notable technologies used in this application are **Python** and **Tkinter**. Tkinter is used to build the Graphical User Interface (GUI) for the application. Additionally, **Matplotlib** is used as well to display the data about previous conversion rates.
 
 ## V. Others
-The source code for the application will be included in this repository, feel free to explore it. Any feedback is very much appreciated. The aim of developing this simple currency converter application is for me to spend more time coding with Python and improve my programming skills in general.
+Feel free to read the source code for the application. Any feedback is very much appreciated. The aim of developing this simple currency converter application is to spend more time coding with Python and improve my programming skills in general.
