@@ -13,12 +13,15 @@ You can use the currency converter by simply downloading the entire repository i
 To view all the currencies supported by ExchangeRate-API, please click on this [link](https://www.exchangerate-api.com/docs/supported-currencies) and head to "All Supported Currencies" and "Notes For Some Supported Currencies" section. You can only retrieve data about previous conversion rates as far as a year ago. This is done to limit the requests sent to the API.
 
 This is what you should see on your screen when you have successfully run the executable file. The application may take some time to load before showing the interface.
+
 ![](images/interfaceDemo.png)
 
 The interface contains four entry fields that the user can enter values or letters into and four buttons that can be pressed. The arrow button swaps the two currencies that you are currently comparing and the "Clear All" button deletes all the existing characters from the fields. 
 
 Here are two screenshots to show which fields to enter for the application to work properly.
+
 ![](images/convertDemo.png)
+
 ![](images/prevConversionRateDemo.png)
 
 If you are viewing data about previous conversion rates from a small screen display, you can use the tools placed at the bottom-left of the graph interface to help view the data more clearly.
