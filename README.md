@@ -20,7 +20,11 @@ The interface contains four entry fields that the user can enter values or lette
 
 Here are two screenshots to show which fields to enter for the application to work properly.
 
+To convert currencies:
+
 ![](images/convertDemo.png)
+
+To view previous conversion rates:
 
 ![](images/prevConversionRateDemo.png)
 
